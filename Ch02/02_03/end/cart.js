@@ -22,6 +22,7 @@ let cart = [
 ];
 
 const cartJson = JSON.stringify(cart);
+console.log(cartJSON);
 
 let single = {
   productId: "530",
@@ -34,4 +35,5 @@ let single = {
   }
 };
 
-const singleJson = JSON.stringify(single);
+const singleJson = JSON.stringify(single);2
+console.log(singleJson);
