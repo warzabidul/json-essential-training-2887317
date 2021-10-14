@@ -11,3 +11,11 @@
     "endDate": "16 June 1999"
   }
 }
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name": "John Smith",
+  "url": "https://www.johnsmith.com",
+  "jobTitle": "Thinker",
+  "sameAs": ["https://www.facebook.com", "https://www.instagram.com", "https://www.linkedin.com"]
+}
